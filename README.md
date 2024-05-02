@@ -21,9 +21,9 @@ After you finish: upload your solution (exported from vertabelo in **png** or **
 
 * Also, we need to know some personal information about the students, their date of birth, email address and phone number for possible contacts. 
 
-* Don’t forget that student may participate in multiple courses, because some of them want to get more skills. 
+* Don’t forget that student may participate in multiple courses.
 
-* Finally, our system should store the information about student payment, so we will be able to know who performed the payment, for which course, when the payment happened and what was the amount of transferred money.
+* The system should store information about payment, so that we know who performed the payment, for which course, when the payment happened and what was the amount of transferred money.
 
 ## Solution
 
