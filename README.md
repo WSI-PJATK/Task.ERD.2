@@ -3,6 +3,8 @@ WSI Task.ERD.2
 
 Go to [Task.ERD.1](https://github.com/WSI-PJATK/Task.ERD.1)
 
+[Vertabelo Solution WIP](https://my.vertabelo.com/public-model-view/0zPozHGO3NMHWIkTPx6BDzVUdzMl0sduo1OaHawhuHmYfKCafmuUuq8508UGnQon?x=3449&y=3638&zoom=0.5354)
+
 ## Task
 
 Create an **entity relationship diagram** for requirements below. The diagram should be created using [Vertabelo](https://vertabelo.com/).
