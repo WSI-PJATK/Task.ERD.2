@@ -7,23 +7,23 @@ Create an **entity relationship diagram** for requirements below. The diagram sh
 
 After you finish: upload your solution (exported from vertabelo in **png** or **svg** format) as an attachment of your assignment.
 
-Design an entity-relationship model for the language school. 
+* Design an entity-relationship model for the language school. 
 
-We should store the information about courses available in the school, start and end date of the course and the price for each of our courses in the school. 
+* We should store the information about courses available in the school, start and end date of the course and the price for each of our courses in the school. 
 
-Every course is dedicated for a certain language and is taught by a single teacher, but of course the same teacher may deliver multiple courses over the time. 
+* Every course is dedicated for a certain language and is taught by a single teacher, but of course the same teacher may deliver multiple courses over the time. 
 
-We want to know the personal information about the teacher, his email address, phone number and the salary he earns in our school. 
+* We want to know the personal information about the teacher, his email address, phone number and the salary he earns in our school. 
 
-The system should be capable to store the languages each teacher knows, teacher’s level (e.g. A1, B2, C2 etc.) and the certification date for each language. 
+* The system should be capable to store the languages each teacher knows, teacher’s level (e.g. A1, B2, C2 etc.) and the certification date for each language. 
 
-For each course in the school we need to have a list of students who participate in it, their date of joining and if they are enrolled in this course as an individual student or they have a group classes. 
+* For each course in the school we need to have a list of students who participate in it, their date of joining and if they are enrolled in this course as an individual student or they have a group classes. 
 
-Also, we need to know some personal information about the students, their date of birth, email address and phone number for possible contacts. 
+* Also, we need to know some personal information about the students, their date of birth, email address and phone number for possible contacts. 
 
-Don’t forget that student may participate in multiple courses, because some of them want to get more skills. 
+* Don’t forget that student may participate in multiple courses, because some of them want to get more skills. 
 
-Finally, our system should store the information about student payment, so we will be able to know who performed the payment, for which course, when the payment happened and what was the amount of transferred money.
+* Finally, our system should store the information about student payment, so we will be able to know who performed the payment, for which course, when the payment happened and what was the amount of transferred money.
 
 ## Solution
 
