@@ -1,6 +1,8 @@
 # Task.ERD.2 Language School
 WSI Task.ERD.2
 
+Go to [Task.ERD.1](https://github.com/WSI-PJATK/Task.ERD.1)
+
 ## Task
 
 Create an **entity relationship diagram** for requirements below. The diagram should be created using [Vertabelo](https://vertabelo.com/).
