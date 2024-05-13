@@ -3,7 +3,7 @@ WSI Task.ERD.2
 
 Go to [Task.ERD.1](https://github.com/WSI-PJATK/Task.ERD.1)
 
-[Vertabelo Solution WIP](https://my.vertabelo.com/public-model-view/0zPozHGO3NMHWIkTPx6BDzVUdzMl0sduo1OaHawhuHmYfKCafmuUuq8508UGnQon?x=3449&y=3638&zoom=0.5354)
+[Vertabelo Solution](https://my.vertabelo.com/public-model-view/p7oixJnyEbMx8RFLjos9CqVzxRwQU0NLs8GNo4zjOYdIWlM5gnM1rD9LHd5y9594?x=2501&y=2634&zoom=0.393)
 
 ## Task
 
