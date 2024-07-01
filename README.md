@@ -168,4 +168,3 @@ ER Diagram:
 
 This ER model captures the main entities, their attributes, and the relationships between them based on the provided requirements. It allows for storing information about courses, languages, teachers, students, enrollments, and payments in a structured manner.
 
-![](https://github.com/WSI-PJATK/Task.ERD.2/blob/main/Language_School_Physical_Model_MySQL_8.x-2024-05-13_16-21.png?raw=true)
